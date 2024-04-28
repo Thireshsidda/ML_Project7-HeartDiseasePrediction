@@ -34,9 +34,11 @@ These metrics provide insights into the model's ability to correctly classify in
 #### 6. Results
 
 ##### The expected output includes:
+```
 Accuracy score: This metric indicates the overall proportion of correct predictions made by the model.
 Classification report: This report details precision, recall, and F1-score for each class (presence or absence of heart disease), providing a more comprehensive view of model performance.
 Confusion matrix: This visualization helps visualize the number of correct and incorrect predictions for each class.
+```
 
 #### 7. Future Enhancements
 
@@ -51,6 +53,8 @@ Explore feature importance analysis to understand which features contribute most
 This project demonstrates the application of Logistic Regression for heart disease prediction. By leveraging machine learning techniques, we can gain valuable insights from medical data and potentially contribute to earlier diagnosis and improved patient care. The exploration of alternative models, hyperparameter tuning, and feature engineering present exciting avenues for further refinement and enhancement of the model's predictive capabilities.
 
 ####  9. References
+```
 Scikit-learn documentation: https://scikit-learn.org/
 Pandas documentation: https://pandas.pydata.org/docs/
 Seaborn documentation: https://seaborn.pydata.org/
+```
